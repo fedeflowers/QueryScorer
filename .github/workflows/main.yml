@@ -51,4 +51,4 @@ jobs:
           POSTGRES_HOST: localhost
           POSTGRES_PORT: 5432
         run: |
-          python your_script_name.py
+          python main.py
