@@ -1,4 +1,6 @@
-from utils.DB import *
+from utils.Connections.DB import *
+from utils.Analizer.Analizer import *
+from utils.Config.Config import *
 import glob
 import sys
 from typing import List, Dict
