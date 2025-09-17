@@ -1,0 +1,11 @@
+# SQL parsing / linting
+sqlfluff==3.1.0
+
+# Postgres driver (optional if you want to run EXPLAIN or store results in Postgres)
+psycopg2-binary==2.9.9
+
+# MongoDB driver (optional if you want to store results in MongoDB)
+pymongo==4.9.1
+
+# Pretty console output (optional, nice for CI logs)
+rich==13.9.2
