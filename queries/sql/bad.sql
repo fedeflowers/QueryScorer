@@ -1,1 +1,1 @@
-delete FROM users;
+delete FROM public.users;
